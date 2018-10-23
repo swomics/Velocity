@@ -10,8 +10,8 @@ C:65.4%[S:57.1%,D:8.3%],F:25.3%,M:9.3%
 Platanus2
 C:71.2%[S:70.5%,D:0.7%],F:21.9%,M:6.9%
 
-Platanus+MESPA
+Platanus2+MESPA
 C:81.8%[S:81.2%,D:0.6%],F:13.5%,M:4.7%
 
-Platanus+Redundans+MESPA
+Platanus2+Redundans+MESPA
 C:82.7%[S:82.1%,D:0.6%],F:13.0%,M:4.3%
