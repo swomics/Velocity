@@ -1,3 +1,5 @@
+#NERC UK Butterfly project: adaptation across time
+
 These scripts are for documentation of the steps taken to produce draft genomes for the Velocity project.
 
 The scripts are not designed for general use, though they may be of interest to researchers who are interested in resolving excessive heterozygosity in short-insert Illumina data and recovering gene-rich draft genomes.
