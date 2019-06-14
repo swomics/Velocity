@@ -26,7 +26,7 @@ These scripts are for documentation of the steps taken to produce whole genome a
 
 The major steps in this process are:
 1) Deriving a phylogeny from BUSCO genes
-2) Annotating with poly-A RNA-seq where possible
+2) Aligning poly-A RNA-seq libraries if possible
 3) Whole genome alignment including a number of higher quality references per clade
 4) Comparative gene annotation with CAT
 
