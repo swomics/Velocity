@@ -1,0 +1,6 @@
+((Lerema_accius:1.0,(Thymelicus_acteon:1.0,(Hesperia_comma:1.0,Ochlodes_sylvanus:1.0):0.6750837806713024):0.0992646253484879):0.5,Heliconius_melpomene:0.5);
+*Heliconius_melpomene	Heliconius_melpomene_melpomene_Hmel2.5.scaffolds.fa.repeatmasker.masked
+Lerema_accius Lerema_accius_v1.1_-_scaffolds.fa.masked
+Ochlodes_sylvanus Ochlodes_sylvanus_Red_MESPA.softmasked.fa
+Hesperia_comma Hesperia_comma_Red_MESPA.softmasked.fa
+Thymelicus_acteon Thymelicus_acteon_Red_MESPA.softmasked.fa
