@@ -1,4 +1,6 @@
-##NERC UK Butterfly project: adaptation across time
+**NERC UK Butterfly project: adaptation across time**
+
+**Assembly and post-processing scripts**
 
 These scripts are for documentation of the steps taken to produce draft genomes for the Velocity project.
 
@@ -17,3 +19,14 @@ C:81.8%[S:81.2%,D:0.6%],F:13.5%,M:4.7%
 
 Platanus2+Redundans+MESPA
 C:82.7%[S:82.1%,D:0.6%],F:13.0%,M:4.3%
+
+**Comparative annotation scripts**
+
+These scripts are for documentation of the steps taken to produce whole genome alignments and comparative annotations for the Velocity project.
+
+The major steps in this process are:
+1) Deriving a phylogeny from BUSCO genes
+2) Annotating with poly-A RNA-seq where possible
+3) Whole genome alignment including a number of higher quality references per clade
+4) Comparative gene annotation with CAT
+
