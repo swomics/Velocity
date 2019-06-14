@@ -2,7 +2,7 @@
 
 ##loop through a bunch of species directories and download fastqs from curated SRA tables
 
-for dir in $(ls *_fastqs); do
+for dir in $(ls -d *_fastqs); do
 
 cd $dir
 
