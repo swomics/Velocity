@@ -1,4 +1,6 @@
 # Adapted from https://isugenomics.github.io/bioinformatics-workbook//dataAnalysis/phylogenetics/reconstructing-species-phylogenetic-tree-with-busco-genes-using-maximum-liklihood-method.html
+##TODO: Write-up as script rather than collection of interactively run code
+
 
 for file in $(find . -name "full_table_*.tsv"); do
 
