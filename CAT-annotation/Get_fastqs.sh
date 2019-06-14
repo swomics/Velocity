@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 ##loop through a bunch of species directories and download fastqs from curated SRA tables
+##Run as - nohup ./Get_fastqs.sh &
 
 for dir in $(ls -d *_fastqs); do
 
