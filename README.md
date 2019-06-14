@@ -1,4 +1,4 @@
-#NERC UK Butterfly project: adaptation across time
+##NERC UK Butterfly project: adaptation across time
 
 These scripts are for documentation of the steps taken to produce draft genomes for the Velocity project.
 
